@@ -1,1 +1,1 @@
-# console_desafio21dias_api
+# console_desafio21dias_api - Parte operadores logicos
