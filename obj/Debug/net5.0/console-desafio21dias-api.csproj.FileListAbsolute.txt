@@ -3,7 +3,6 @@ C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio2
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\bin\Debug\net5.0\console-desafio21dias-api.runtimeconfig.json
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\bin\Debug\net5.0\console-desafio21dias-api.runtimeconfig.dev.json
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\bin\Debug\net5.0\console-desafio21dias-api.dll
-C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\bin\Debug\net5.0\ref\console-desafio21dias-api.dll
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\bin\Debug\net5.0\console-desafio21dias-api.pdb
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\obj\Debug\net5.0\console-desafio21dias-api.csproj.AssemblyReference.cache
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\obj\Debug\net5.0\console-desafio21dias-api.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,5 @@ C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio2
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\obj\Debug\net5.0\ref\console-desafio21dias-api.dll
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\obj\Debug\net5.0\console-desafio21dias-api.pdb
 C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\obj\Debug\net5.0\console-desafio21dias-api.genruntimeconfig.cache
+C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\obj\Debug\net5.0\console-desafio21dias-api.sourcelink.json
+C:\Users\Luís Trindade\Desktop\Projetos\Desafios_21_dias\dia_1\console-desafio21dias-api\obj\Debug\net5.0\refint\console-desafio21dias-api.dll
